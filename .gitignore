@@ -1,4 +1,15 @@
+.DS_Store
+xcuserdata/
+*.xcuserstate
 DerivedData/
 build/
-*.xcuserdata
-*.xcworkspace
+*.xccheckout
+*.moved-aside
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+.swiftpm/
+Package.resolved
+CLAUDE.local.md
+.claude/
