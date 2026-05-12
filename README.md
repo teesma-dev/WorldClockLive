@@ -11,6 +11,9 @@
 <p align="center">
   <img src="https://img.shields.io/badge/macOS-14.0%2B-black?style=flat-square&logo=apple" />
   <img src="https://img.shields.io/badge/Swift-5-orange?style=flat-square&logo=swift" />
+  <a href="https://apps.apple.com/in/app/world-clock-live/id6766493657?mt=12">
+    <img src="https://img.shields.io/badge/App%20Store-Download-0D96F6?style=flat-square&logo=apple" />
+  </a>
 </p>
 
 <br />
@@ -21,7 +24,7 @@
 
 ---
 
-## Screenshots
+## 📸 Screenshots
 
 <p align="center">
   <img src="docs/images/Screenshot1.png" height="200" alt="Menu Bar" />
@@ -37,7 +40,7 @@
 
 ---
 
-## Features
+## ✨ Features
 
 - **Add up to 4 cities** — Monitor multiple time zones at once in a clean, focused layout
 - **Menu bar clock** — A live clock always visible in your macOS menu bar
@@ -49,12 +52,30 @@
 
 ---
 
-## Requirements
+## ⬇️ Download
+ 
+<p align="center">
+  <a href="https://apps.apple.com/in/app/world-clock-live/id6766493657?mt=12">
+    <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" height="50" alt="Download on the Mac App Store" />
+  </a>
+</p>
+
+---
+
+## 🛠 Requirements
 
 - macOS 14.0 or later
 - Xcode 15+
 
-## Installation
+## 💻 Installation
+
+### Option 1 — Mac App Store *(Recommended)*
+ 
+<a href="https://apps.apple.com/in/app/world-clock-live/id6766493657?mt=12">
+  <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" height="40" alt="Download on the Mac App Store" />
+</a>
+
+### Option 2 — Build from Source
 
 ```bash
 git clone https://github.com/teesma-dev/WorldClockLive.git
@@ -66,7 +87,7 @@ Open `WorldClockLive.xcodeproj` in Xcode and hit `Cmd + R`.
 
 ---
 
-## Built With
+## 🔧 Built With
 
 - **Swift 5** — Primary language
 - **SwiftUI** — UI framework
@@ -74,7 +95,7 @@ Open `WorldClockLive.xcodeproj` in Xcode and hit `Cmd + R`.
 
 ---
 
-## Developer
+## 👩‍💻 Developer
 
 <p align="center">
   <strong>Teesma M</strong><br/>
@@ -97,7 +118,7 @@ Open `WorldClockLive.xcodeproj` in Xcode and hit `Cmd + R`.
 
 ---
 
-## Support
+## ☕ Support
 
 If you find this app useful, consider buying me a coffee — it helps me keep building!
 
@@ -107,6 +128,15 @@ If you find this app useful, consider buying me a coffee — it helps me keep bu
   </a>
 </p>
 
+---
+
+## ⭐ Support the Project
+ 
+If this project helped you or you just like it:
+ 
+- 🌟 **Star this repo** — it really helps!
+- 🔁 **Share it** with your developer friends
+- 📥 **Download** the app and leave a review on the App Store
 ---
 
 <p align="center">Made with ❤️ in Chennai, India</p>
